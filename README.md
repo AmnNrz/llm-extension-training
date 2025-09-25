@@ -9,6 +9,6 @@ The goal of this workshop is to provide a **hands-on introduction to using Large
 - Explore use cases such as:
   - Cleaning and organizing datasets
   - Summarizing large amounts of information
-  - Generating code for analysis (Python, R, SQL, Excel)
+  - Generating code for analysis (Python)
   - Interpreting and visualizing results
 - Practice using AI tools safely and responsibly.
